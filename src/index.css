@@ -1,0 +1,38 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+        Helvetica, Arial, sans-serif;
+    margin: auto;
+    padding: 2rem;
+}
+
+.boldText {
+    font-weight: 600;
+}
+
+nav {
+    padding-bottom: 5px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #e9e9e9;
+}
+
+td {
+    vertical-align: middle;
+}
+
+.scrollableTable {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.scrollableTable thead {
+    position: sticky;
+    top: 0px;
+}
+.scrollableTable th {
+    box-shadow:
+        inset 0 2px 0 #e9e9e9,
+        inset 0 -2px 0 #e9e9e9 !important;
+}
+.scrollableTable thead tr {
+    border-top: none;
+}

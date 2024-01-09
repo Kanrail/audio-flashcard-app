@@ -1,0 +1,17 @@
+.correctAnswer {
+    color: green;
+}
+.incorrectAnswer {
+    color: red;
+}
+
+.soundButtonCol {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.soundButton {
+    font-size: xxx-large !important;
+    width: 120px;
+    height: 120px;
+}
