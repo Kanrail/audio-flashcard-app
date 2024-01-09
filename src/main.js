@@ -68,7 +68,6 @@ if (!fs.existsSync(dbPath)) {
         }
     });
 } else {
-    initializeDatabase(newDB);
     console.log('Database file found, connecting.');
 }
 let db = new sqlite3.Database(dbPath, sqlite3.OPEN_READWRITE, (err) => {
