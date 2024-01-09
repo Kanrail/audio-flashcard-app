@@ -33,6 +33,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 #### Authors
 - Daniel Bowen **[Kanrail](https://github.com/Kanrail)**
+    - [![Paypal Donation Link](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif "Paypal Donation Link")](https://www.paypal.com/donate/?business=FH9GVZQY5UJLC&no_recurring=1&currency_code=USD)
 
 #### License
 This project is licensed under the ISC License - see the **[license.md]()**.
